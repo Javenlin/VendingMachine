@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">VendingMachine</string>
+    <string name="menu_settings">Setting</string>
+    <string-array name="drink">
+        <item>珍珠奶茶</item>
+        <item>波霸奶茶</item>
+        <item>仙草凍奶茶</item>
+        <item>檸檬汁</item>
+    </string-array>
+    <string-array name="price">
+        <item> 35 </item>
+        <item> 40 </item>
+        <item> 45 </item>
+        <item> 25 </item>
+    </string-array>
+    <string-array name="temp1">
+        <item>冰</item>
+        <item>去冰</item>
+        <item>少冰</item>
+        <item>熱</item>
+    </string-array>
+    <string-array name="temp2">
+        <item>普通</item>
+        <item>少糖</item>
+        <item>微甜</item>
+    </string-array>
+    <string-array name="num">
+        <item> 1 </item><item> 2 </item>
+        <item> 3 </item><item> 4 </item>
+        <item> 5 </item><item> 6 </item>
+        <item> 7 </item><item> 8 </item>
+        <item> 9 </item><item> 10 </item>
+    </string-array>
+
+
+</resources>
